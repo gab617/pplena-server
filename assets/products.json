@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "nombre": "Leche",
+    "stock": true,
+    "imagen": "https://robohash.org/1.230.22.7.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Pan",
+    "stock": true,
+    "imagen": "https://robohash.org/2.230.22.7.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Huevos",
+    "stock": true,
+    "imagen": "https://robohash.org/3.230.22.7.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Arroz",
+    "stock": true,
+    "imagen": "https://robohash.org/4.230.22.7.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Azúcar",
+    "stock": true,
+    "imagen": "https://robohash.org/5.230.22.7.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Aceite de cocina",
+    "stock": true,
+    "imagen": "https://robohash.org/6.230.22.7.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Sal",
+    "stock": true,
+    "imagen": "https://robohash.org/7.230.22.7.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Café",
+    "stock": true,
+    "imagen": "https://robohash.org/8.230.22.7.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Harina",
+    "stock": true,
+    "imagen": "https://robohash.org/9.230.22.7.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Jabón",
+    "stock": true,
+    "imagen": "https://robohash.org/10.230.22.7.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Arándanos",
+    "stock": true,
+    "imagen": "https://robohash.org/11.230.22.7.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Queso",
+    "stock": true,
+    "imagen": "https://robohash.org/12.230.22.7.png"
+  },
+  {
+    "id": 13,
+    "nombre": "Pasta",
+    "stock": true,
+    "imagen": "https://robohash.org/13.230.22.7.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Mantequilla",
+    "stock": true,
+    "imagen": "https://robohash.org/14.230.22.7.png"
+  },
+  {
+    "id": 15,
+    "nombre": "Yogur",
+    "stock": true,
+    "imagen": "https://robohash.org/15.230.22.7.png"
+  },
+  {
+    "id": 16,
+    "nombre": "Manzanas",
+    "stock": true,
+    "imagen": "https://robohash.org/16.230.22.7.png"
+  },
+  {
+    "id": 17,
+    "nombre": "Naranjas",
+    "stock": true,
+    "imagen": "https://robohash.org/17.230.22.7.png"
+  },
+  {
+    "id": 18,
+    "nombre": "Zanahorias",
+    "stock": true,
+    "imagen": "https://robohash.org/18.230.22.7.png"
+  },
+  {
+    "id": 19,
+    "nombre": "Pimientos",
+    "stock": true,
+    "imagen": "https://robohash.org/19.230.22.7.png"
+  },
+  {
+    "id": 20,
+    "nombre": "Tomates",
+    "stock": true,
+    "imagen": "https://robohash.org/20.230.22.7.png"
+  },
+  {
+    "id": 21,
+    "nombre": "Cebollas",
+    "stock": true,
+    "imagen": "https://robohash.org/21.230.22.7.png"
+  },
+  {
+    "id": 22,
+    "nombre": "Pepinos",
+    "stock": true,
+    "imagen": "https://robohash.org/22.230.22.7.png"
+  },
+  {
+    "id": 23,
+    "nombre": "Lechuga",
+    "stock": true,
+    "imagen": "https://robohash.org/23.230.22.7.png"
+  },
+  {
+    "id": 24,
+    "nombre": "Sandía",
+    "stock": true,
+    "imagen": "https://robohash.org/24.230.22.7.png"
+  },
+  {
+    "id": 25,
+    "nombre": "Fresas",
+    "stock": true,
+    "imagen": "https://robohash.org/25.230.22.7.png"
+  },
+  {
+    "id": 26,
+    "nombre": "Nueces",
+    "stock": true,
+    "imagen": "https://robohash.org/26.230.22.7.png"
+  },
+  {
+    "id": 27,
+    "nombre": "Cereales",
+    "stock": true,
+    "imagen": "https://robohash.org/27.230.22.7.png"
+  },
+  {
+    "id": 28,
+    "nombre": "Té",
+    "stock": true,
+    "imagen": "https://robohash.org/28.230.22.7.png"
+  }
+]
